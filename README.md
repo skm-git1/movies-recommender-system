@@ -4,7 +4,7 @@ Deployed link - https://movies-recommender-system-od.streamlit.app/
 
 To run locally
 1. Clone the repo
-2. cd into movies-recommendor-system directory
+2. cd into movies-recommender-system directory
 3. run the command
    ```python
     pip install -r requirements.txt
